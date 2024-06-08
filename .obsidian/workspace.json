@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "5fdd57e963e2e2b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d86e33ffffe3b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04fb3142e8196136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_historia_do_linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80aaf10ae0acc819",
+    "type": "split",
+    "children": [
+      {
+        "id": "c98b556052444a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b19d313f5c06764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "556413b9eb02b5ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "740e7c8889596db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "b5dd935b37a3881d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8df0f5573947a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a0eff684883e55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a_historia_do_linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25cdb45d6f85df3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "a_historia_do_linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "764acda21b4d0d8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3026ab9cbc2ae8b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a_historia_do_linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04fb3142e8196136",
+  "lastOpenFiles": [
+    "funcionamento_da_internet.md",
+    "README.md",
+    "a_historia_do_linux.md",
+    "[A história do linux.md",
+    "A.md"
+  ]
+}
