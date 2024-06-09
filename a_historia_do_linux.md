@@ -12,3 +12,6 @@ Foi apos adquirir seu segundo computador que a sua curiosidade por sistemas oper
 **Linus teve um período longe das telas pois teve que servir ao exercito por um ano**
 
 No Ano em que Linus entrou para a universidade, a universidade adotou o sistema Unix para seus computadores, que na época não era acessível para todos, foi uma nova experiencia para Linus, então Linus teve a ideia de acessar remotamente os computadores da universidade pela sua maquina para poder usar o Unix, ao ler um livro que explicava como um engenheiro de software criou o MINIX baseado em Unix e em C, ele decidiu que precisava de um computador novo para testar esse sistema, MINIX. Suas primeiras experiencias com o MINIX não foram boas, o SO era lento, então ele decidiu que precisaria desenvolver um emulador de terminal para voltar a acessar os computadores da universidade remotamente.
+
+Então após algum tempo o Linus tinha desenvolvido algo que mais parecia o core de um sistema operacional do que de fato um emulador de terminal, e fez isso utilizando varias das convenções já estabelecidas pelo Unix, o que faltava pra se tornar um sistema operacional de fato eram poucos módulos básicos para a interação com o usuário final, que ele acabou utilizando alguns módulos baseado em um outro projeto baseado em Unix chamado GNU, e assim nasceu a primeira versão do Linux.
+
