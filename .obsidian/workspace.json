@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_historia_do_linux.md",
+                "file": "01_a_historia_do_linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2e96db2a160e6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_funcionamento_da_internet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_historia_do_linux.md",
+                "file": "03_funcionamento_da_internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a_historia_do_linux.md",
+                "file": "03_funcionamento_da_internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a_historia_do_linux.md"
+                "file": "03_funcionamento_da_internet.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04fb3142e8196136",
+  "active": "e2e96db2a160e6fc",
   "lastOpenFiles": [
-    "funcionamento_da_internet.md",
     "README.md",
-    "a_historia_do_linux.md",
+    "02_mais_um_pouco_de_linux.md",
+    "03_funcionamento_da_internet.md",
+    "01_a_historia_do_linux.md",
     "[A história do linux.md",
     "A.md"
   ]
