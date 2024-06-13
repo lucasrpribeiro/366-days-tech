@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f679d706f7b79a06",
+            "id": "6a6e2609fe0f21eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_funcionamento_da_internet.md",
+                "file": "01_a_historia_do_linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_funcionamento_da_internet.md",
+                "file": "01_a_historia_do_linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_funcionamento_da_internet.md",
+                "file": "01_a_historia_do_linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_funcionamento_da_internet.md"
+                "file": "01_a_historia_do_linux.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f679d706f7b79a06",
+  "active": "6a6e2609fe0f21eb",
   "lastOpenFiles": [
-    "README.md",
-    "03_funcionamento_da_internet.md",
-    "01_a_historia_do_linux.md",
     "02_mais_um_pouco_de_linux.md",
+    "03_historia_da_internet.md",
+    "04_funcionamento_da_internet.md",
+    "README.md",
+    "01_a_historia_do_linux.md",
     "[A história do linux.md",
     "A.md"
   ]
