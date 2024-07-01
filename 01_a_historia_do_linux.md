@@ -1,3 +1,5 @@
+#tech #so #linux
+
 Antes de tudo irei fazer um resumo de algumas coisas relacionadas ao linux
 
   Antes de falar do linux, a nossa história começa com um cara chamado Linus Torvalds.
